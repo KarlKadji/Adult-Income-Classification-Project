@@ -5,29 +5,29 @@ This project uses SQL to clean and analyze the Adult Income Dataset, which is ba
 
 Files
 1. Adult Income (Cleaning).sql
-    Cleans the raw dataset
+    - Cleans the raw dataset
 
-    Handles missing values and duplicates
+    - Handles missing values and duplicates
 
-    Formats and standardizes column data for analysis
+    - Formats and standardizes column data for analysis
 
 2. Adult Income (EDA).sql
-    Performs exploratory data analysis
+    - Performs exploratory data analysis
 
-    Analyzes income by age, gender, education, occupation, and more
+    - Analyzes income by age, gender, education, occupation, and more
 
-    Highlights trends and key insights
+    - Highlights trends and key insights
 
 3. adult11.csv
-    The source dataset
+    - The source dataset
 
-    Downloaded from Kaggle
+    - Downloaded from Kaggle
 
 How to Use
-    Import adult11.csv into your SQL database
+    - Import adult11.csv into your SQL database
 
-  Run the Cleaning script
+  - Run the Cleaning script
 
-  Run the EDA script on the cleaned data
+  - Run the EDA script on the cleaned data
 
   NOTE: Adjust table and column names as needed for your database setup.
