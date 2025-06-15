@@ -24,10 +24,10 @@ Files
     - Downloaded from Kaggle
 
 How to Use
+
     - Import adult11.csv into your SQL database
 
-  - Run the Cleaning script
-
-  - Run the EDA script on the cleaned data
+    - Run the Cleaning script
+    - Run the EDA script on the cleaned data
 
   NOTE: Adjust table and column names as needed for your database setup.
