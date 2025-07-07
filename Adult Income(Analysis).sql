@@ -14,7 +14,7 @@ from adult11_staging2
 group by education_num, education
 order by education_num;
 
-/* the highest average age belongs to those who achieved the hioghest education level of 7th-8th grade
+/* the highest average age belongs to those who achieved the highest education level of 7th-8th grade
 The lowest average age belongs to those who achieved the highest education level of 11th grade
 The societal minimum standard of  HS grad has an average age of 39 years old
 similarly bachelors have an average age of 39 years old (rounded up)
